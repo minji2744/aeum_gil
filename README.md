@@ -1,5 +1,5 @@
 # 애움길: aeum_gil
-![logo](002.png){: 쟝소 = '200' height='200'}
+![logo](002.png){: width = '200' height='200'}
 
 안녕하세요, :raised_hand:  
 AIFFEL 해커톤 "자연어처리 알고리즘을 활용한 느린학습자 교육 컨텐츠 제작" 프로젝트 "애움길" 팀입니다.
