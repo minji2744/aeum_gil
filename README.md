@@ -19,3 +19,8 @@ AIFFEL 해커톤 "자연어처리 알고리즘을 활용한 느린학습자 교�
 | 김은서 |느티(rtee)|    |
 | 문영민 |   |    |
 
+
+## 2. 진행상황
+1) 원문 - 쉬운글 pair 데이터 쌍을 구축하기 위해 크롤링 작업 진행 (minji/newneek_webscraping_v1.py 확인)
+2) 원문 데이터를 가져오기 위한 분석 (minji/newneek_crawling.ipynb)
+3) 원문 데이터를 가져오기 위해 newneek 패키지 파이썬 파일 작업
