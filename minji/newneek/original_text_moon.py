@@ -150,13 +150,16 @@ def main(url, browser):
     return original
 
 
-browser = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.headless=True
+options.add_argument("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36")
+browser = webdriver.Chrome('D:\\project\\python_workspace\\chromedriver.exe', options=options)
 
-url = "https://www.khan.co.kr/national/national-general/article/202110080600055"
+url = 'https://www.segye.com/newsView/20210825514048'
 browser.get(url)
 
 
-original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="articleBody"]'))).text
+original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="article_txt"]/article'))).text
 browser.execute_script("window.stop();")
 
 print(original)
