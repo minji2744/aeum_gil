@@ -1,0 +1,103 @@
+<div id="pnlContent" itemprop="articleBody">
+
+    <span
+        class="fr-img-space-wrap fr-deletable news-image fr-img-caption fr-fic fr-dib"
+        data-id="1c334f15-e51d-476e-97e1-0bace007b467"
+        style="width: 710px;">
+        <span class="fr-img-wrap">
+            <img
+                src="https://file2.nocutnews.co.kr/newsroom/image/2021/09/26/202109261022264319_0.jpg"
+                alt="서울역 임시선별검사소를 찾은 시민들이 검사를 받기 위해 줄을 서 있다. 박종민 기자"
+                class="fr-fic fr-dib">
+                <span class="fr-inner">서울역 임시선별검사소를 찾은 시민들이 검사를 받기 위해 줄을 서 있다. 박종민 기자</span>
+            </span>
+            <iframe
+                src="//io1.innorame.com/imp/vAg3DAw4p1Dr.iframe"
+                width="100%"
+                height="50"
+                allowtransparency="true"
+                marginwidth="0"
+                marginheight="0"
+                hspace="0"
+                vspace="0"
+                frameborder="0"
+                scrolling="no"
+                style="width: 320px; min-width: 100%;"></iframe>
+        </span>추석 연휴를 거치며 국내 신종 코로나바이러스 감염증(코로나19) 확진자가 나날이 늘고 있는 가운데 주말인 26일 신규 확진자 수가
+        2700명대 후반을 기록했다.<br>
+            <br>
+                <div
+                    style="text-align: right; width: 250px; float: right; margin: 15px 0px 0px 15px; ">
+                    <iframe
+                        src="//white.contentsfeed.com/RealMedia/ads/adstream_sx.ads/www.nocutnews.co.kr/article@x08"
+                        width="250"
+                        height="250"
+                        frameborder="0"
+                        marginwidth="0"
+                        marginheight="0"
+                        scrolling="no"
+                        leftmargin="0"
+                        topmargin="0"></iframe>
+                </div>중앙방역대책본부는 이날 0시 기준 신규 확진자가 2771명 늘어 누적 30만 1172명이라고 밝혔다.<br>
+                    <br>국내 코로나19 발생 이후 하루 기준 역대 최다 수치를 기록한 전날(3272명)보다 501명 줄었지만 여전히 두 번째로 높은 수치다.
+                        추석 연휴 직전인 지난주 토요일(18일)의 1909명과 비교하면 확진자가 862명이나 늘었다.<br>
+                            <br>신규 확진자의 감염경로는 국내 지역 발생이 2735명, 해외유입이 36명이다. 지역 별로 보면 서울 923명, 경기 922명, 인천
+                                169명 등 수도권이 총 2014명을 기록했다.<br>
+                                    <br>비수도권은 대구 143명, 경북 85명, 충남 74명, 경남 72명, 대전 53명, 충북 49명, 강원·전북 각 47명, 부산 46명,
+                                        광주 39명, 울산 27명, 전남 25명, 세종 8명, 제주 6명 등 모두 721명이다.<br>
+                                            <br>
+                                                <div
+                                                    style="text-align: right; width: 250px; float: right; margin: 15px 0px 0px 15px;">
+                                                    <iframe
+                                                        src="//white.contentsfeed.com/RealMedia/ads/adstream_sx.ads/www.nocutnews.co.kr/article@x42"
+                                                        width="250"
+                                                        height="250"
+                                                        frameborder="0"
+                                                        marginwidth="0"
+                                                        marginheight="0"
+                                                        scrolling="no"
+                                                        leftmargin="0"
+                                                        topmargin="0"></iframe>
+                                                </div>사망자는 전날보다 9명 늘어 누적 2450명이 됐고 국내 평균 치명률은 0.81%다. 위중증 환자는 전날보다 19명 줄어 총 320명이다.<br>
+                                                    <br>일일 확진자가 네 자리수를 기록한 뒤 좀처럼 잡히지 않던 코로나 확산세는 추석 연휴를 거치며 더욱 거세지고 있다. 최근 7일 동안 집계일
+                                                        기준 신규 확진자 수는 일별로
+                                                        1604명(20일)→1729명(21일)→1720명(22일)→1715명(23일)→2431명(24일)→3272명(25일)→2771명(26일)이다.<br>
+                                                            <br>여전히 추석 연휴 여파가 전부 반영된 수치가 아닌 데다 통상 검사 건수가 주말이 평일보다 적은 점을 감안하면 다음주에는 이보다 더
+                                                                확진자수가 증가할 것이라는 전망도 나온다. &nbsp;<div class="news-related_n">
+                                                                    <h2>더 클릭
+                                                                    </h2>
+                                                                    <ul>
+                                                                        <li>
+                                                                            <a href="/news/5629421">[단독]국민의힘 곽상도子 '화천대유'로부터 50억 받았다</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629440">곽상도 "화천대유 아들 퇴직금 50억? 그런 구조 만든 건 이재명"</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629420">[법정B컷]'대장동 로비 의혹' 변호사의 무죄와 내부자들</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629410">[단독]무선 보이스피싱 4년 간 26배↑…최다 통신사는?</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629446">밤길에 휴대폰 보다 바다에 빠진 60대 해경에 구조돼</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629429">北 김여정 "공정·상호존중 유지되면 남북정상회담 가능"(종합)</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629418">오늘 전북서 '호남 대전' 마무리…이낙연 반전 기회 잡을까</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629153">文정부 때리며 몸푸는 안철수…10월 출마 선언→ 11월 단일화 협상 가능성</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629176">"네카쿠배 다나온다" 대대적 IT국감…업계 "보여주기 안 돼"</a>
+                                                                        </li>
+                                                                        <li>
+                                                                            <a href="/news/5629442">"비트코인 되팔기해 고수익" 100억대 투자사기 일당 실형·집유</a>
+                                                                        </li>
+                                                                    </ul>
+                                                                </div>
+                                                                <br>
+                                                                    <br></div>
