@@ -79,43 +79,53 @@ def khan(browser):   # 경향신문
 
 
 ## TODO!!  ------------------------->
-def mt(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
+def mt(browser): # 머니투데이 # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="textBody"]')))
+    browser.execute_script("window.stop();")
+
+    # 머니투데이 기사는 [@id="textBody"] 밑에 <table>과 <div>를 제거하면 기사만 남는 구조이다. -> 
+    # (기사 원문만 가지고 오기 위해서는 해당 태그를 제거)
+    table = original.find_elements_by_xpath('table') # [@id="textBody"] 밑에 있는 모든 <table>태그를 가지고온다.
+    div = original.find_elements_by_xpath('div') # [@id="textBody"] 밑에 있는 모든 <div>태그를 가지고온다.
+    for t in table: # <table>태그를 하나씩 가지고와서
+        browser.execute_script("arguments[0].remove()", t) # 모두 제거해준다.
+    for d in div: # <div>태그를 하나씩 가지고와서
+        browser.execute_script("arguments[0].remove()", d) # 모두 제거해준다.
+
+    return original.text
+
+def news1(browser): # 뉴스원 # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="articles_detail"]'))).text
     browser.execute_script("window.stop();")
     return original
 
-def news1(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
+def nocutnews(browser): # 노컷뉴스 # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="pnlContent"]'))).text
     browser.execute_script("window.stop();")
     return original
 
-def nocutnews(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
+def newsis(browser): # 뉴시스 # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="content"]/div[1]/div[1]/div[3]/article'))).text
     browser.execute_script("window.stop();")
     return original
 
-def newsis(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
+def seoul(browser): # 서울신문 # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="atic_txt1"]'))).text
     browser.execute_script("window.stop();")
     return original
 
-def seoul(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
+def ytn(browser): # YTN # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="CmAdContent"]/span'))).text
     browser.execute_script("window.stop();")
     return original
 
-def ytn(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
+def sedaily(browser): # 서울경제 # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="atic_txt1"]'))).text
     browser.execute_script("window.stop();")
     return original
 
-def sedaily(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
-    browser.execute_script("window.stop();")
-    return original
-
-def segye(browser):
-    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, ''))).text
+def segye(browser): # 세계일보 # 확인
+    original = WebDriverWait(browser, 15).until(EC.presence_of_element_located((By.XPATH, '//*[@id="article_txt"]/article'))).text
     browser.execute_script("window.stop();")
     return original
 

@@ -1,0 +1,80 @@
+<span style="display:inline-block;width:740px">[앵커]<br>
+        지난달 원유 가격 인상으로 예견됐던 우유 가격 인상이 현실화됐습니다.<br>
+            <div
+                id="hns_mask"
+                class="hns_mask_div"
+                style="width:250px;height:250px;float:right; text-align:right;margin:20px 0 20px 20px;z-index:1;">
+                <iframe
+                    width="250"
+                    height="250"
+                    src="//adex.ednplus.com/xc/h/7bUwK8fc"
+                    allowtransparency="true"
+                    marginwidth="0"
+                    marginheight="0"
+                    hspace="0"
+                    vspace="0"
+                    frameborder="0"
+                    scrolling="no"
+                    topmargin="0"
+                    leftmargin="0"></iframe>
+            </div>
+            <br>
+                우유업계 1위 서울우유가 흰우유 제품 가격을 올리기로 했는데, 눈치만 보던 다른 업체들도 조만간 가격 인상에 나설 것으로 보입니다.<br>
+                    <br>
+                        계훈희 기자가 보도합니다.<br>
+                            <br>
+                                [기자]<br>
+                                    다음 달 1일부터 우윳값이 오릅니다.<br>
+                                        <br>
+                                            우유업계 1위 서울우유가 가격 인상에 나섰는데, 인상 폭은 흰 우유 1리터 기준 5.4%입니다.<br>
+                                                <br>
+                                                    이렇게 되면, 대형마트에서 판매하는 1리터 짜리 서울우유 흰우유 제품 가격은 2,500원 대에서 2,700원 전후로 약 140원 정도 오르게
+                                                    됩니다.<br>
+                                                        <br>
+                                                            우윳값 인상은 지난 2018년 이후 3년 만인데, 원유가격 연동제가 도입된 2013년과 2018년 두 차례 오른 적이 있습니다.<br>
+                                                                <br>
+                                                                    <iframe
+                                                                        frameborder="0"
+                                                                        width="756"
+                                                                        height="214"
+                                                                        style="margin-left:-8px"
+                                                                        scrolling="no"
+                                                                        title="이 시각 추천뉴스"
+                                                                        src="/inc_banner/recommList.html"></iframe>
+                                                                    [김한수 / 서울우유협동조합 팀장 : 지난달 1일부터 원유가격이 인상되었고 부자재 가격, 생산비용 등의 증가로 불가피하게 가격 인상을 결정하게
+                                                                    되었습니다. 최근 경제여건 등을 감안하여 가격 인상 폭을 최소화하고자 노력하였습니다.]<br>
+                                                                        <br>
+                                                                            앞서 정부는 우유 가격 인상만은 막아보려 했지만 낙농업계는 원유 가격 인상을 강행했습니다.<br>
+                                                                                <br>
+                                                                                    이미 지난 8월부터 원유 가격이 리터당 21원씩 올랐기 때문에 다른 우유업체들도 조만간 가격 인상에 나설 것으로 보입니다.<br>
+                                                                                        <br>
+                                                                                            한 유업계 관계자는 이미 원유 가격이 오르는 등 인상 요인은 분명히 있다면서 현재 구체적인 시기와 폭을 검토 중이라고 말했습니다.<br>
+                                                                                                <br>
+                                                                                                    서울우유 측은 이번 인상이 우유 제품에만 해당한다고 설명했습니다.<br>
+                                                                                                        <br>
+                                                                                                            치즈나 버터 등 가공품 인상은 일단 없다는 건데, 이 부분 역시 추후 논의될 예정이기 때문에 인상 여지는 남아있는 상황입니다.<br>
+                                                                                                                <br>
+                                                                                                                    여기에 추석 전 물가 안정에 총력을 기울인 정부 눈치를 보느라 식품업체들이 가격 인상을 미뤄온 만큼, 우유를 사용하는 빵과 과자 등 먹거리
+                                                                                                                    가격의 줄인상이 불가피해 보입니다.<br>
+                                                                                                                        <div
+                                                                                                                            id="hns_mask"
+                                                                                                                            class="hns_mask_div"
+                                                                                                                            style="width:250px;height:250px;float:right; text-align:right;margin:20px 0 20px 20px;z-index:1;">
+                                                                                                                            <iframe
+                                                                                                                                width="250"
+                                                                                                                                height="250"
+                                                                                                                                src="//adex.ednplus.com/xc/h/p37v6pgS"
+                                                                                                                                allowtransparency="true"
+                                                                                                                                marginwidth="0"
+                                                                                                                                marginheight="0"
+                                                                                                                                hspace="0"
+                                                                                                                                vspace="0"
+                                                                                                                                frameborder="0"
+                                                                                                                                scrolling="no"
+                                                                                                                                topmargin="0"
+                                                                                                                                leftmargin="0"></iframe>
+                                                                                                                        </div>
+                                                                                                                        <br>
+                                                                                                                            YTN 계훈희입니다.<br>
+                                                                                                                                <br>YTN 계훈희 (khh0215@ytn.co.kr)<br>
+                                                                                                                                        <br></span>
