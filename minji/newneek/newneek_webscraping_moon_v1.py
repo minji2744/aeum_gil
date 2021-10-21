@@ -7,6 +7,7 @@ import csv
 import requests
 import re
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from webdriver_manager.chrome import ChromeDriverManager
 import original_text_moon  # newneek 패키지의 모듈 임포트
 
 def make_csv_file(filename):   # 1. 웹데이터를 수집할 csv 파일을 만듭니다.
@@ -18,11 +19,16 @@ def make_csv_file(filename):   # 1. 웹데이터를 수집할 csv 파일을 만�
 
 
 def more_loading(browser):
+    count = 0
     while True:     # 더보기 버튼 계속 누르기
         try:
             element = browser.find_element_by_xpath('//button[text()="더보기"]')
             browser.execute_script("arguments[0].click();", element)
-            time.sleep(3)      #페이지 로딩 대기
+            time.sleep(1)      #페이지 로딩 대기
+
+            # count += 1
+            # if count > 1:
+            #     break
         except:
             break
 
@@ -35,13 +41,14 @@ def main():
     # options.headless=True
     options.add_argument("start-maximized")
     options.add_argument("disable-infobars --disable-extensions")
-    options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36")
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36")
     caps = DesiredCapabilities().CHROME
     caps["pageLoadStrategy"] = "none"
-    browser = webdriver.Chrome(desired_capabilities=caps, options=options)   # selenium driver 크롬
+    chrome_driver_path = ChromeDriverManager().install()
+    browser = webdriver.Chrome(chrome_driver_path, desired_capabilities=caps, options=options)   # selenium driver 크롬
     url = "https://www.newneek.co"  # 뉴닉 페이지 이동
     browser.get(url)
-    time.sleep(5)
+    time.sleep(1.5)
  
     more_loading(browser)   # 더보기 버튼 계속 누르기
 
@@ -50,8 +57,8 @@ def main():
 
     # https://www.newneek.co 의 기사들(card)을 하나씩 열며 진행합니다.
     for idx, card in enumerate(cards):
-        card.send_keys(Keys.COMMAND+"\n")   # card를 다른 탭으로 열기
-        browser.switch_to_window(browser.window_handles[1])       # 새로 연 탭으로 이동
+        card.send_keys(Keys.CONTROL+"\n")   # card를 다른 탭으로 열기
+        browser.switch_to.window(browser.window_handles[1])       # 새로 연 탭으로 이동
         
         time.sleep(2)   # 로딩 대기
         soup = BeautifulSoup(browser.page_source, 'lxml')    # soup 객체로 웹페이지 스크래핑
@@ -74,9 +81,9 @@ def main():
             sum = re.sub(r'[\n\r\t]','', sum)  # 전처리
             
             # 원문 기사를 selenium 으로 다른 탭에 열기
-            browser.find_element_by_xpath('//a[@href="'+url+'"]').send_keys(Keys.COMMAND+"\n")
+            browser.find_element_by_xpath('//a[@href="'+url+'"]').send_keys(Keys.CONTROL+"\n")
             time.sleep(4)
-            browser.switch_to_window(browser.window_handles[2])       # 새로 연 탭으로 이동
+            browser.switch_to.window(browser.window_handles[2])       # 새로 연 탭으로 이동
             url = browser.current_url   # 현재 url 주소 가져오기
             
             original = original_text_moon.main(url, browser)   # original_text 모듈에서 main함수로 원문기사 크롤링
@@ -87,10 +94,10 @@ def main():
             print(data)
             writer.writerow(data)  # csv 파일에 행으로 쓰기
             browser.close()
-            browser.switch_to_window(browser.window_handles[1])
+            browser.switch_to.window(browser.window_handles[1])
         
         browser.close() # 현재 탭 닫기
-        browser.switch_to_window(browser.window_handles[0]) # 첫번 째 탭(뉴닉 메인 페이지)으로 이동해서 다시 반복
+        browser.switch_to.window(browser.window_handles[0]) # 첫번 째 탭(뉴닉 메인 페이지)으로 이동해서 다시 반복
 
 
 if __name__ == "__main__":
