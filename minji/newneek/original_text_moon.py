@@ -98,7 +98,7 @@ def news1(browser): # 뉴스원 # 확인
 
     # 뉴스원 기사는 마지막에 작성한 기자의 이메일 정보가 들어가 있음(태그 안에 있는 것이 아닌 그냥 텍스트로 되어있어서 따로 지워주는 작업 추가)
     original_text = original.text
-    original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$', '', original_text) # email 제거
+    # original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$', '', original_text) # email 제거
     return original_text
 
 def nocutnews(browser): # 노컷뉴스 # 확인
@@ -119,10 +119,10 @@ def newsis(browser): # 뉴시스 # 확인
     # 뉴시스 기사는 처음에 '[세종=뉴시스] 김진욱 기자 = ' 문장이 있고,
     # 기사 마지막에는 '◎공감언론 뉴시스' 문장이 있기 때문에 해당 문장을 제거해주는 작업 추가
     original_text = original.text
-    word = ' = '
-    original_text = original_text[original_text.find(word)+len(word):] # (해당 문장이 시작하는 index + 문장의 index) 부터 데이터를 가지고옴
-    word = '◎'
-    original_text = original_text[:original_text.find(word)] # 해당 문장이 시작하는 index 앞 까지만 데이터를 가지고옴
+    # word = ' = '
+    # original_text = original_text[original_text.find(word)+len(word):] # (해당 문장이 시작하는 index + 문장의 index) 부터 데이터를 가지고옴
+    # word = '◎'
+    # original_text = original_text[:original_text.find(word)] # 해당 문장이 시작하는 index 앞 까지만 데이터를 가지고옴
     return original_text
 
 def seoul(browser): # 서울신문 # 확인
@@ -133,9 +133,9 @@ def seoul(browser): # 서울신문 # 확인
 
     # 서울신문의 경우, '세종 하종훈 기자 artg@seoul.co.kr'라는 문장이 마지막 문단에 들어가있음 // 이 부분 제거
     original_text = original.text
-    original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$', '', original_text) # 기자의 이메일 찾아서 제거
-    ot_list = original_text.split('.') # 기사의 마지막이 .으로 끝난다고 가정해서 split해준 다음
-    original_text = original_text[:original_text.find(ot_list[-1])] # 마지막에 들어가있는 기자 정보 제거
+    # original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$', '', original_text) # 기자의 이메일 찾아서 제거
+    # ot_list = original_text.split('.') # 기사의 마지막이 .으로 끝난다고 가정해서 split해준 다음
+    # original_text = original_text[:original_text.find(ot_list[-1])] # 마지막에 들어가있는 기자 정보 제거
     return original_text
 
 def ytn(browser): # YTN # 확인
@@ -146,7 +146,7 @@ def ytn(browser): # YTN # 확인
 
     # ytn의 경우, [앵커]와 [기자]탭으로 분류되어 있다.
     original_text = original.text
-    original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', '', original_text) # email 제거
+    # original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', '', original_text) # email 제거
 
     # [앵커] 부분 제거
     word = '[기자]'
@@ -167,13 +167,13 @@ def sedaily(browser): # 서울경제 # 확인
     del_tag(original)
 
     original_text = original.text
-     # email 제거
-    email = re.search('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', original_text)
-    if email:
-        original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', '', original_text)
+    # email 제거
+    # email = re.search('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', original_text)
+    # if email:
+    #     original_text = re.sub('[a-zA-Z0-9+-_.]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+', '', original_text)
     
-    ot_list = original_text.split('.') # .으로 split한 후
-    original_text = original_text[:original_text.find(ot_list[-2])] # 마지막 기자 소개 부분 빼고 출력
+    # ot_list = original_text.split('.') # .으로 split한 후
+    # original_text = original_text[:original_text.find(ot_list[-2])] # 마지막 기자 소개 부분 빼고 출력
     return original_text
 
 def segye(browser): # 세계일보 # 확인
@@ -183,7 +183,7 @@ def segye(browser): # 세계일보 # 확인
     del_tag(original)
 
     original_text = original.text
-    original_text = re.sub('\[.*\]|\s-\s.*', '', original_text) # [~~] 형태의 모든 데이터 제거
+    # original_text = re.sub('\[.*\]|\s-\s.*', '', original_text) # [~~] 형태의 모든 데이터 제거
     return original_text
 
 
