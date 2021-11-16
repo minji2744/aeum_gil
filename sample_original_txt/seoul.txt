@@ -1,0 +1,49 @@
+<div class="S20_v_article" id="atic_txt1" itemprop="articleBody">
+    우리나라의 자영업자 비율이 경제협력개발기구(OECD) 38개 회원국 가운데 7위 수준이며, 취업자 4명 가운데 1명은 자영업자인 것으로
+    나타났다.<br>
+        <br>10일 OECD에 따르면 2018년 기준 우리나라 자영업자가 전체 취업자에서 차지하는 비율은 25.1%다. OECD 회원국 38개 가운데
+            코스타리카와 함께 공동 7위다. OECD 기준 자영업자는 우리나라 기준 자영업자(고용원 있는 자영업자+고용원 없는 자영업자)에 무급 가족
+            종사자까지 포함한 비임금근로자 비율이다. 무급 가족 종사자는 자영업자의 가족이나 친인척으로, 보수를 받지 않고 정규 근로 시간의 3분의1 이상을
+            근무한 사람이다.<br>
+                <br><!-- MobileAdNew center -->자영업자 비율은 콜롬비아가 52.1%로 1위다. 그리스(33.5%),
+                    브라질(32.5%), 터키(32.0%), 멕시코(31.6%) 등이 뒤를 이었다. 미국이 6.3%로 가장 낮았고 노르웨이(6.5%),
+                    호주(9.6%), 독일(9.9%) 등도 10% 선을 밑돌았다. 일본은 10.3%로 29위다.<br>
+                        <br>
+                            <div
+                                data-iwmads-id="1633760984019"
+                                class="iwmads is-loaded is-shutdown"
+                                style="width: 640px; max-height: 0px !important; margin: 0px auto !important; transition: max-height 400ms ease-in-out 0s;"></div>한국의
+                            자영업자 비율은 1989년 40.8%에 달했지만 1998년 38.3%, 2008년 31.2%, 2018년 25.1%로 꾸준히 낮아졌다. 하지만
+                            여전히 전체 경제 규모에 비해선 큰 편이다. 고용 상황이 좋지 않고 고령화가 진행되면서 생계형 창업이 증가하다 보니 당장 산업구조를 개편해
+                            자영업자 비율을 줄이기도 쉽지 않다.<br>
+                                <br>성태윤 연세대 경제학부 교수는 “동네 치킨집같이 소규모 영세 자영업자가 많은 상황에서 최저임금제나 코로나19로 자영업자의 타격이 더 커진
+                                    상황”이라며 “기업의 일자리 창출이 제일 중요하고 기술혁신과 관련된 자영업을 육성해야 한다”고 지적했다.<br>
+                                        <br>
+                                            <table
+                                                id="seoulAdTable"
+                                                align="right"
+                                                width="250"
+                                                height="250"
+                                                border="0"
+                                                style="margin-left:10px">
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+                                                            <!--<IFRAME WIDTH=250 HEIGHT=250 NORESIZE SCROLLING=No FRAMEBORDER=0
+                                                            MARGINHEIGHT=0 MARGINWIDTH=0
+                                                            SRC="http://wwwads.seoul.co.kr/RealMedia/ads/adstream_sx.ads/seoul/news@Middle1"></IFRAME>-->
+                                                            <iframe
+                                                                width="250"
+                                                                height="250"
+                                                                noresize=""
+                                                                scrolling="No"
+                                                                frameborder="0"
+                                                                marginheight="0"
+                                                                marginwidth="0"
+                                                                src="//wwwads.seoul.co.kr/RealMedia/ads/adstream_sx.ads/seoul/news@x13"
+                                                                title="광고"></iframe>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>세종 하종훈 기자 artg@seoul.co.kr
+                                        </div>

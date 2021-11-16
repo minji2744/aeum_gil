@@ -1,0 +1,61 @@
+<div class="detail sa_area" id="articles_detail" itemprop="articleBody">
+    <table
+        style="clear: both; margin: auto; width: 540px;"
+        border="0"
+        cellspacing="0"
+        cellpadding="0"
+        align="center">
+        <tbody>
+            <tr>
+                <td style="padding: 0 10px 5px 2px;" align="center">
+                    <img
+                        id="belongs_photo_4917749"
+                        class="news1_photo"
+                        style="max-width: 518px; padding: 5px; border: 1px solid #d7d7d7;"
+                        src="https://image.news1.kr/system/photos/2021/8/10/4917749/article.jpg/dims/optimize"
+                        alt=""
+                        align="absmiddle"
+                        border="0"></td>
+                </tr>
+                <tr>
+                    <td
+                        id="content_caption_id"
+                        style="padding-bottom: 10px; color: #666; letter-spacing: -1px; font-size: 11px; font-family: Dotum sans-serif;"
+                        align="center">층간소음 현장 측정 장면. DL이앤씨 제공. /뉴스1</td>
+                </tr>
+            </tbody>
+        </table>
+        <br>최근 5년간 한국환경공단이 층간 소음 민원을 접수해 현장 측정에 나선 건수가 1654건에 달했지만, 이중 환경부가 정한 기준을 초과한
+            것은 122건(7.4%)에 불과한 것으로 나타났다. 이에 지난 2014년 제정된 층간소음 기준을 현실화해야 한다는 지적이 나온다.
+            <br>
+                <br>20일 노웅래 더불어민주당 의원이 한국환경공단 층간소음 이웃사이센터로부터 제출받은 자료에 따르면, 최근 5년간 층간소음 문제로 총
+                    14만6521건의 상담(전화상담+인터넷상담)이 이뤄졌다.
+                    <br>
+                        <br>
+                            <iframe
+                                width="300"
+                                height="250"
+                                noresize=""
+                                scrolling="no"
+                                frameborder="0"
+                                marginheight="0"
+                                marginwidth="0"
+                                src="https://ads.mtgroup.kr/RealMedia/ads/adstream_sx.ads/news1_pc/news@x04"
+                                style="float: right;"></iframe>전화상담에
+                            만족하지 못해 현장진단 서비스를 신청한 건수는 4만5308건이고, 이 역시 만족하지 못해 소음을 직접 측정한 건수는 1654건으로 집계됐다.
+                            <br>
+                                <br>하지만 1654건 중 환경부가 정한 기준을 초과한 것은 122건(7.4%)에 불과했고, 나머지 1532건은 모두 기준 이내인 것으로 나타났다.<br>
+                                        <br>연도별 층간소음 기준을 초과했다고 인정된 사례는 △2017년 26건(6.4%) △2018년 2건(7.6%) △2019년 35건(7.6%)
+                                            △2020년 18건(9.8%) △2021년 1~6월 11건(6.1%) 등이다.
+                                            <br>
+                                                <br>층간소음을 구분하는 기준은 환경부와 국토부가 2014년 공동으로 제정한 '공동주택 층간소음의 범위와 기준에 관한 규칙'에 따른 것이다.
+                                                    <br>
+                                                        <br>층간소음 측정결과는 소음 관련 분쟁·조정을 위한 자료로 활용되며, 피해 배상에도 활용된다. 환경부는 층간소음 기준을 초과한 비율이 매년
+                                                            10%를 넘기지 않았는데도, 여태껏 별도 조치를 하지 않은 것으로 확인됐다.
+                                                            <br>
+                                                                <br>노웅래 의원은 "층간소음 측정결과는 층간소음 피해를 입증할 수 있는 객관적 기준"이라며 "환경부는 국민 눈높이에 맞도록 층간소음
+                                                                    측정기준을 엄격하게 재설정해야 한다"고 강조했다.
+                                                                    <br>
+                                                                        <br>
+                                                                            <br>jupy@news1.kr
+                                                                            </div>

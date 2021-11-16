@@ -1,0 +1,309 @@
+<article>
+    <div class="summury_view">
+        <p class="tit">
+            <strong>기사내용 요약</strong>
+        </p>
+        <p>
+            조성욱 위원장, 제재 발표 직접 브리핑<br>
+                구글, 플레이 스토어 이용권 갖고 협박<br>
+                    스마트폰·워치·TV 등 갖가지 분야 대상<br>
+                        삼성, 갤럭시 워치 팔면서 실제 피해 봐<br>
+                            구글 점유율 98% 육박, 독점 업체 탄생<br>
+                                "3건 더 조사 중…법 엄정히 집행할 것"
+                            </p>
+                        </div>
+
+                        <div id="view_ad"></div>
+                        <div class="thumCont" align="justify">
+                            <div id="textBody">
+                                <div
+                                    class="article_photo thum center"
+                                    id="imgartitable_NISI20210914_0017947978">
+                                    <img
+                                        src="//image.newsis.com/2021/09/14/NISI20210914_0017947978_web.jpg?rnd=20210914120000"
+                                        &nbsp;=""
+                                        alt="associate_pic"
+                                        style="float:; margin:0 auto;display:block;"
+                                        check_caption="Y"
+                                        mode_we="edit"
+                                        arti_id="NISI20210914_0017947978">
+                                        <p class="desc" id="caption_NISI20210914_0017947978"></p>
+                                        <p class="photojournal">[세종=뉴시스] 강종민 기자 = 조성욱 공정거래위원회 위원장이 14일 오전 정부세종청사에서 구글에
+                                            시정 명령과 과징금 2074억원(잠정)을 부과한다고 밝히고 있다. 2021.09.14. ppkjm@newsis.com</p>
+                                    </div>
+                                    <table class="viewerAd right">
+                                        <tbody>
+                                            <tr>
+                                                <td class="img">
+                                                    <iframe
+                                                        class="lazy_iframe"
+                                                        src="/view/ad/proc_iframe_view_in.html"
+                                                        scrolling="no"
+                                                        frameborder="0"
+                                                        marginheight="0"
+                                                        marginwidth="0"
+                                                        width="300"
+                                                        height="250"></iframe>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <br>
+                                [세종=뉴시스] 김진욱 기자 = 공정거래위원회가 구글에 2000억원이 넘는 과징금을 부과했다. 삼성전자 등 스마트 기기 제조사에 "경쟁 운영
+                                체제(OS)를 쓰지 말라"고 갑질한 혐의다.<br>
+                                    <div
+                                        id="dcamp_ad_3244"
+                                        style="display: flex; width: 580px; text-align: center; height: 400px; margin: auto;">
+                                        <span style="position:relative;">
+                                            <span style="position:relative; z-index:2; float:left;">
+                                                <span style="position:absolute; top:0%; left:0%; z-index:3;">
+                                                    <div
+                                                        style="position:absolute;top:1px;left:1px;cursor:pointer;z-index:4;background-color:transparent;"
+                                                        onmouseover="mouse_on_3244();"
+                                                        onmouseout="mouse_off_3244();"
+                                                        onclick="info_popup_3244();">
+                                                        <div
+                                                            id="logo1_3244"
+                                                            style="color:red;display:none;width:70px;height:15px;margin:0px;">
+                                                            <img
+                                                                src="https://adimg.digitalcamp.co.kr/files/logo/140x30_b.png"
+                                                                width="70px"
+                                                                height="15px"
+                                                                style="vertical-align:unset;margin:0px;width:70px !important;height:15px !important;"></div>
+                                                            <div id="logo2_3244" style="color:#fff;width:15px;height:15px;margin:0px;">
+                                                                <img
+                                                                    src="https://adimg.digitalcamp.co.kr/files/logo/15x15.png"
+                                                                    width="15px"
+                                                                    height="15px"
+                                                                    style="vertical-align:unset;margin:0px;width:15px !important;height:15px !important;"></div>
+                                                            </div>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                                <script
+                                                    charset="utf-8"
+                                                    src="https://tracker.digitalcamp.co.kr/dcamp_load_V2.php?mc=MzI0NA&amp;t=script&amp;bt=&amp;w=100%&amp;h=&amp;ps=&amp;url="></script>
+                                                <img
+                                                    src="https://idm.skplanet.com/pixel?nid=29&amp;uid=OWU0YmU4ZmJhMzcyNTRiNjM0MTYzNzZhMmFjNjFhYmI="
+                                                    width="0"
+                                                    height="0"
+                                                    style="display:none;">
+                                                    <li style="list-style:none;">
+                                                        <a
+                                                            href="https://dicp.digitalcamp.co.kr/tc/tc_click.php?message=200349be8806a8e3a66facf7079779c61a69dd3576ca9936608c4875a7e32595&amp;date=1633758888&amp;param=MTEwM14zMjQ0XlBeU15PV1UwWW1VNFptSmhNemN5TlRSaU5qTTBNVFl6TnpaaE1tRmpOakZoWW1JPV5eMjEwLjIyMy41OC4xNTZeXl5eXmh0dHBzOi8vbmV3c2lzLmNvbS9eYXJlYV8xMTYyMDUyNV4xNTgxNl5J&amp;adurl=https%3A%2F%2Fxi.co.kr%2FDRY"
+                                                            target="_blank">
+                                                            <img
+                                                                src="https://adimg.digitalcamp.co.kr/files/1103/juxcsnvhGgNE.jpg"
+                                                                alt="1103"
+                                                                width="580"
+                                                                height="400"
+                                                                border="0"
+                                                                style="vertical-align:top;width:580px !important;height:400px !important;"></a>
+                                                        </li>
+                                                        <img
+                                                            id="dcamp_imptrack_3244"
+                                                            data-src="https://dicp.digitalcamp.co.kr/tc/tc_imp.php?message=5083ea094d708f17d010eb967a3c5feac9d33a26dd39627dbcd228781d3881d6&amp;date=1633758888&amp;param=MTEwM14zMjQ0XlBeU15PV1UwWW1VNFptSmhNemN5TlRSaU5qTTBNVFl6TnpaaE1tRmpOakZoWW1JPV5eYXJlYV8xMTYyMDUyNV4xNTgxNl5J"
+                                                            width="0"
+                                                            height="0"
+                                                            style="width:0px;height:0px;display:none;"
+                                                            src="https://dicp.digitalcamp.co.kr/tc/tc_imp.php?message=5083ea094d708f17d010eb967a3c5feac9d33a26dd39627dbcd228781d3881d6&amp;date=1633758888&amp;param=MTEwM14zMjQ0XlBeU15PV1UwWW1VNFptSmhNemN5TlRSaU5qTTBNVFl6TnpaaE1tRmpOakZoWW1JPV5eYXJlYV8xMTYyMDUyNV4xNTgxNl5J">
+                                                            <img
+                                                                src="https://idm.skplanet.com/pixel?nid=29&amp;uid=OWU0YmU4ZmJhMzcyNTRiNjM0MTYzNzZhMmFjNjFhYmI="
+                                                                width="0"
+                                                                height="0"
+                                                                style="display:none;">
+                                                                <script>
+                                                                    function dcamp_onClose_3244() {
+                                                                        document
+                                                                            .getElementById('dcamp_ad_3244')
+                                                                            .style
+                                                                            .display = 'none';
+                                                                    }
+                                                                    function mouse_on_3244() {
+                                                                        document
+                                                                            .getElementById('logo1_3244')
+                                                                            .style
+                                                                            .display = 'block';
+                                                                        document
+                                                                            .getElementById('logo2_3244')
+                                                                            .style
+                                                                            .display = 'none';
+                                                                    }
+                                                                    function mouse_off_3244() {
+                                                                        document
+                                                                            .getElementById('logo1_3244')
+                                                                            .style
+                                                                            .display = 'none';
+                                                                        document
+                                                                            .getElementById('logo2_3244')
+                                                                            .style
+                                                                            .display = 'block';
+                                                                    }
+                                                                    function info_popup_3244() {
+                                                                        var url = 'https://adimg.digitalcamp.co.kr/info/log/MTEwM3xodHRwczovL3hpLmNvLmtyL0RSWXxod' +
+                                                                                'HRwczovL2FkaW1nLmRpZ2l0YWxjYW1wLmNvLmtyL2ZpbGVzLzExMDMvanV4Y3NudmhHZ05FLmpwZ3w' +
+                                                                                '1ODB8NDAw';
+                                                                        var id = '_blank';
+                                                                        var wid = 716;
+                                                                        var hig = 800;
+                                                                        var x = (window.screen.width) / 2 - 250;
+                                                                        var y = (window.screen.height) / 2 - 250;
+                                                                        window.focus();
+                                                                        var win = window.open(url, id);
+                                                                        win.focus();
+                                                                    }
+                                                                </script>
+                                                            </div>
+                                                            <br>
+                                                                공정위는 구글이 "인앱(In-App) 결제를 강제화해 30%의 '통행세'를 걷겠다"고 했던 사안 등 3건을 더 조사하고 있다. 이 사안에도
+                                                                경쟁법을 엄격히 적용해 그 책임을 묻겠다는 계획이다.<br>
+                                                                    <br>
+                                                                        조성욱 공정위 위원장은 14일 정부세종청사에서 브리핑을 열고 "구글이 삼성전자 등 스마트 기기 제조사에 안드로이드(구글 자체 OS)의 경쟁
+                                                                        OS를 이용하지 못하게 한 행위에 시정 명령과 과징금 2074억원을 부과하기로 했다"고 밝혔다.<br>
+                                                                            <br>
+                                                                                시정 명령은 구글이 스마트 기기 제조사에 이런 갑질을 하지 못하도록 하는 것이다. 한국에 본점을 둔 국내 제조사와 한국에 공급되는 기기를 만드는
+                                                                                해외 제조사가 이 명령의 혜택을 받는다. 단, 해외 제조사의 경우 한국에 유통하는 제품에만 이 명령 내용을 적용받는다.<br>
+                                                                                    <br>
+                                                                                        공정위에 따르면 구글은 각 스마트 기기 제조사에 "'파편화 금지 계약'(AFA·Anti-Fragmentation Agreement)을
+                                                                                        체결하라"고 종용하는 방식을 썼다. "안드로이드 코드를 바탕으로 변형 개발한 OS를 쓰지 말라"는 계약이다.<br>
+                                                                                            <br>
+                                                                                                <div class="thumCont" align="justify">
+                                                                                                    <div id="textBody">
+                                                                                                        <div
+                                                                                                            class="article_photo thum center"
+                                                                                                            id="imgartitable_NISI20210824_0017873058">
+                                                                                                            <img
+                                                                                                                src="//image.newsis.com/2021/08/24/NISI20210824_0017873058_web.jpg?rnd=20210824135523"
+                                                                                                                &nbsp;=""
+                                                                                                                alt="associate_pic"
+                                                                                                                style="float:; margin:0 auto;display:block;"
+                                                                                                                check_caption="Y"
+                                                                                                                mode_we="edit"
+                                                                                                                arti_id="NISI20210824_0017873058">
+                                                                                                                <p class="desc" id="caption_NISI20210824_0017873058"></p>
+                                                                                                                <p class="photojournal">[서울=뉴시스] 정병혁 기자 = 24일 오후 서울 서초구 삼성 딜라이트샵을 찾은 시민들이
+                                                                                                                    갤럭시Z폴드3와 갤럭시Z플립3를 살펴보고 있는 모습. 2021.08.24. jhope@newsis.com 이 사진은 기사 내용과 직접적 관련
+                                                                                                                    없음</p>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <br>
+                                                                                                        그러면서 "AFA를 맺지 않으면 '플레이 스토어'를 쓰지 못하도록 하겠다"고 엄포를 놨다. 플레이 스토어는 각종 애플리케이션을 구매할 수 있는
+                                                                                                        마켓이다. 플레이 스토어를 이용하지 못하면 카카오톡·네이버 등 외부 앱을 내려받을 수 없어 스마트 기기 이용이 사실상 불가능하다.<br>
+                                                                                                            <br>
+                                                                                                                구글은 개발 초기부터 "안드로이드를 누구나 별도의 계약 없이 자유롭게 쓰고, 변형 이용도 가능하도록 하겠다"며 '설계도'에 해당하는 소스 코드를
+                                                                                                                모두 공개한 바 있는데, 정작 스마트 기기 제조사는 이를 활용하지 못하도록 한 것이다.<br>
+                                                                                                                    <br>
+                                                                                                                        삼성전자는 (부당한) AFA를 체결한 이유에 관해 "우리(의 자체 OS 개발 등)에 일정한 제약이 (될 수) 있음을 인지했다"면서도 "안드로이드
+                                                                                                                        탑재 스마트폰에 꼭 필요한 플레이 스토어를 얻기 위해서였다"고 밝혔다.<br>
+                                                                                                                            <br>
+                                                                                                                                이런 AFA는 스마트폰뿐만 아니라 모든 스마트 기기에 적용됐다. 이에 따라 기기 제조사는 스마트 워치·텔레비전(TV) 등을 만들 때도
+                                                                                                                                안드로이드만 탑재해야 했다.<br>
+                                                                                                                                    <br>
+                                                                                                                                        구글은 스마트 기기 제조사가 다른 분야 기기에서 경쟁 OS를 한 번이라도 탑재할 경우 AFA 위반으로 간주, 플레이 스토어 이용권을 박탈했다.<br>
+                                                                                                                                            <br>
+                                                                                                                                                <div class="thumCont" align="justify">
+                                                                                                                                                    <div id="textBody">
+                                                                                                                                                        <div
+                                                                                                                                                            class="article_photo thum center"
+                                                                                                                                                            id="imgartitable_NISI20200516_0016328254">
+                                                                                                                                                            <img
+                                                                                                                                                                src="//image.newsis.com/2020/05/16/NISI20200516_0016328254_web.jpg?rnd=20200516092202"
+                                                                                                                                                                &nbsp;=""
+                                                                                                                                                                alt="associate_pic"
+                                                                                                                                                                style="float:; margin:0 auto;display:block;"
+                                                                                                                                                                check_caption="N"
+                                                                                                                                                                mode_we="edit"
+                                                                                                                                                                arti_id="NISI20200516_0016328254">
+                                                                                                                                                                <p class="desc" id="caption_NISI20200516_0016328254" style="display:none"></p>
+                                                                                                                                                                <p class="photojournal"></p>
+                                                                                                                                                            </div>
+                                                                                                                                                        </div>
+                                                                                                                                                    </div>
+                                                                                                                                                    <br>
+                                                                                                                                                        실제로 미국의 가전제품 제조사 델(Dell)이 경쟁 OS를 탑재한 스마트 기기를 출시한다는 소식을 접한 구글은 "출시 즉시 모든 기기에 대한
+                                                                                                                                                        플레이 스토어 라이선스를 해지하겠다"고 위협했다.<br>
+                                                                                                                                                            <br>
+                                                                                                                                                                이에 따라 삼성전자는 스마트 워치인 '갤럭시 기어 1' 제품의 OS를 안드로이드 기반의 경쟁 OS가 아닌 자체 개발한 '타이젠'으로 억지로
+                                                                                                                                                                바꿔야만 했다. 삼성전자는 기어 3까지 타이젠을 탑재했지만, 앱 생태계 구축에 한계를 느끼고, 기어 4부터 구글의 '웨어'(구글이 만든 스마트
+                                                                                                                                                                워치용 OS)를 쓰기 시작했다.<br>
+                                                                                                                                                                    <br>
+                                                                                                                                                                        조 위원장은 "삼성전자가 갤럭시 기어 1을 출시할 때 원래 쓰려고 했던 경쟁 OS를 탑재할 수 있었다면 스마트 워치 시장 경쟁 상황은 지금과는
+                                                                                                                                                                        많이 달랐을 것"이라고 짚었다.<br>
+                                                                                                                                                                            <br>
+                                                                                                                                                                                이 밖에 안드로이드를 기반으로 한 자체 OS '파이어'를 개발한 미국 아마존도 AFA의 피해를 봤다. 아마존은 LG전자와 함께 첫 태블릿
+                                                                                                                                                                                컴퓨터(PC) '킨들 파이어'를 출시하려고 했지만, 구글이 LG전자에 "아마존의 태블릿 PC를 제조하는 것은 AFA 위반"이라고 통보한 뒤 해당
+                                                                                                                                                                                프로젝트 자체가 무산됐다.<br>
+                                                                                                                                                                                    <br>
+                                                                                                                                                                                        그 결과 2019년 모바일 OS 분야에서 구글의 시장 점유율은 97.7%까지 높아졌다. AFA를 통해 스마트 기기 제조사를 강력히 통제한 덕분에
+                                                                                                                                                                                        사실상 독점 사업자 지위에 오른 것이다. 같은 해 플레이 스토어의 앱 마켓 시장 점유율 또한 최대 99%에 이른 것으로 추정된다.<br>
+                                                                                                                                                                                            <br>
+                                                                                                                                                                                                <div class="thumCont" align="justify">
+                                                                                                                                                                                                    <div id="textBody">
+                                                                                                                                                                                                        <div
+                                                                                                                                                                                                            class="article_photo thum center"
+                                                                                                                                                                                                            id="imgartitable_NISI20190905_0015563316">
+                                                                                                                                                                                                            <img
+                                                                                                                                                                                                                src="//image.newsis.com/2019/09/05/NISI20190905_0015563316_web.jpg?rnd=20190905134812"
+                                                                                                                                                                                                                &nbsp;=""
+                                                                                                                                                                                                                alt="associate_pic"
+                                                                                                                                                                                                                style="float:; margin:0 auto;display:block;"
+                                                                                                                                                                                                                check_caption="N"
+                                                                                                                                                                                                                mode_we="edit"
+                                                                                                                                                                                                                arti_id="NISI20190905_0015563316">
+                                                                                                                                                                                                                <p class="desc" id="caption_NISI20190905_0015563316" style="display:none"></p>
+                                                                                                                                                                                                                <p class="photojournal"></p>
+                                                                                                                                                                                                            </div>
+                                                                                                                                                                                                        </div>
+                                                                                                                                                                                                    </div>
+                                                                                                                                                                                                    <br>
+                                                                                                                                                                                                        조 위원장은 "구글은 개발 단계부터 경쟁 상품의 탄생 자체를 철저히 통제한 전례를 찾기 힘든 경쟁 제한 행위를 했다"면서 "앞으로도 시장을
+                                                                                                                                                                                                        선점한 플랫폼이 독점적 지위를 유지하기 위해 하는 반경쟁 행위는 법을 엄정히 집행해 제재하겠다"고 말했다.<br>
+                                                                                                                                                                                                            <br>
+                                                                                                                                                                                                                조 위원장은 아울러 "공정위 제재에 따라 모바일 OS 및 앱 마켓 시장에서 경쟁 압력이 복원될 것"이라면서 "공정위는 이 건 외에도 구글의
+                                                                                                                                                                                                                ▲인앱 결제 강제 건 ▲앱 마켓 경쟁 제한 건 ▲광고 시장 관련 건 등 사건 3건을 더 조사하고 있다. 플랫폼의 반경쟁 행위에는 법을 엄정히
+                                                                                                                                                                                                                집행하겠다"고 말했다.<br>
+                                                                                                                                                                                                                    <br>
+                                                                                                                                                                                                                        <br>
+                                                                                                                                                                                                                            ◎공감언론 뉴시스 str8fwd@newsis.com
+                                                                                                                                                                                                                            <script>
+                                                                                                                                                                                                                                $('iframe').addClass("frameCenter");
+
+                                                                                                                                                                                                                                function output(type, ob) {
+                                                                                                                                                                                                                                    var windoption = "width=687,height=700,left=300,top=100,resizable=no,scrollbars = yes";
+                                                                                                                                                                                                                                    if (type == "email") {}
+                                                                                                                                                                                                                                    if (ob == "article") {
+                                                                                                                                                                                                                                        if (type == "pdf") {
+                                                                                                                                                                                                                                            //alert('pdf 서비스 점검 중입니다.'); return false;
+
+                                                                                                                                                                                                                                            location.href = "/pdf?id=NISX20210914_0001583851&type=" + ob + '&title=' +
+                                                                                                                                                                                                                                                    encodeURI($('#article > div.article_tbx > h1').text());
+                                                                                                                                                                                                                                        } else {
+                                                                                                                                                                                                                                            window.open(
+                                                                                                                                                                                                                                                '/common/?id=NISX20210914_0001583851&method=' + type + '&type=' + ob,
+                                                                                                                                                                                                                                                '',
+                                                                                                                                                                                                                                                windoption
+                                                                                                                                                                                                                                            );
+                                                                                                                                                                                                                                        }
+
+                                                                                                                                                                                                                                    } else if (ob == "photo") {
+                                                                                                                                                                                                                                        var thopho_id = $("#hid_foc").val();
+                                                                                                                                                                                                                                        if (type == "pdf") {
+
+                                                                                                                                                                                                                                            //alert('pdf 서비스 점검 중입니다.'); return false;
+
+                                                                                                                                                                                                                                            location.href = "/pdf?id=" + thopho_id + '&type=' + ob + '&title=' +
+                                                                                                                                                                                                                                                    encodeURI($('#article > div.article_tbx > h1').text());
+                                                                                                                                                                                                                                        } else {
+                                                                                                                                                                                                                                            window.open(
+                                                                                                                                                                                                                                                '/common/?id=' + thopho_id + '&method=' + type + '&type=' + ob,
+                                                                                                                                                                                                                                                '',
+                                                                                                                                                                                                                                                windoption
+                                                                                                                                                                                                                                            );
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            </script>
+                                                                                                                                                                                                                        </article>

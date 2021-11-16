@@ -1,0 +1,235 @@
+<div id="textBody" style="font-size:px;" itemprop="articleBody">
+
+    <table class="article_photo center">
+        <tbody>
+            <tr>
+                <td class="img">
+                    <img
+                        src="//thumb.mt.co.kr/06/2021/09/2021091411112041074_1.jpg/dims/optimize/"
+                        alt="(서울=뉴스1) 송원영 기자 = 조성욱 공정거래위원장. 2021.8.24/뉴스1  "></td>
+                </tr>
+                <tr>
+                    <td class="desc">(서울=뉴스1) 송원영 기자 = 조성욱 공정거래위원장. 2021.8.24/뉴스1
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <!-- 기사본문 우측 박스 -->
+
+        <div class="util_box">
+            <span class="ad">
+                <span class="adH" style="">
+                    <iframe
+                        width="300"
+                        height="250"
+                        noresize=""
+                        scrolling="no"
+                        frameborder="0"
+                        marginheight="0"
+                        marginwidth="0"
+                        src="https://ads.mtgroup.kr/RealMedia/ads/adstream_sx.ads/mt_pc/news@x04"></iframe>
+                </span>
+            </span>
+        </div>구글이 안드로이드로 글로벌 모바일 OS(운용체계) 시장을 장악할 수 있었던 배경에 삼성전자 등 제조업체와 맺은 '갑질계약'이 있었던
+        것으로 나타났다. 공정거래위원회는 구글의 갑질계약 때문에 삼성전자의 타이젠, 아마존의 파이어OS 등 경쟁사 OS가 시장에서 퇴출됐다고 밝혔다.
+        공정위가 구글에 시정명령을 내리면서 글로벌 모바일·스마트기기 부문 OS 시장에서 '안드로이드 독주'가 깨질 것인지 관심이 집중된다.<br>
+            <!--start_block-->
+            <div
+                class="highlightBlock"
+                style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div>
+            <div style="display:none;">
+                <br></div>
+                <div style="display:none;">━<br></div>
+                    <b>아마존·삼성전자도 '갑질' 피해자</b>
+                    <div style="display:none;">
+                        <br>━</div>
+                        <div style="display:none;">
+                            <br></div>
+                            <div
+                                class="highlightBlock"
+                                style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div>
+                            <!--end_block-->
+                            <table class="article_photo center">
+                                <tbody>
+                                    <tr>
+                                        <td class="img">
+                                            <img
+                                                src="https://thumb.mt.co.kr/06/2021/09/2021091411112041074_4.jpg/dims/optimize/"
+                                                alt="구글의 OS 장악 비결은 '갑질계약'...삼성에서 새 OS 나올까"></td>
+                                        </tr>
+                                    </tbody>
+                                </table>공정위는 공정거래법을 위반한 구글LLC·구글아시아퍼시픽·구글코리아(이하 구글)에 과징금 총 2074억원을 부과하고 시정명령을
+                                내렸다고 14일 밝혔다.<div
+                                    id="dcamp_ad_3125"
+                                    style="display: flex; width: 580px; text-align: center; height: 400px; margin: auto;">
+                                    <span style="position:relative;">
+                                        <span style="position:relative; z-index:2; float:left;">
+                                            <span style="position:absolute; top:0%; left:0%; z-index:3;">
+                                                <div
+                                                    style="position:absolute;top:1px;left:1px;cursor:pointer;z-index:4;background-color:transparent;"
+                                                    onmouseover="mouse_on_3125();"
+                                                    onmouseout="mouse_off_3125();"
+                                                    onclick="info_popup_3125();">
+                                                    <div
+                                                        id="logo1_3125"
+                                                        style="color:red;display:none;width:70px;height:15px;margin:0px;">
+                                                        <img
+                                                            src="https://adimg.digitalcamp.co.kr/files/logo/140x30_b.png"
+                                                            width="70px"
+                                                            height="15px"
+                                                            style="vertical-align:unset;margin:0px;width:70px !important;height:15px !important;"></div>
+                                                        <div id="logo2_3125" style="color:#fff;width:15px;height:15px;margin:0px;">
+                                                            <img
+                                                                src="https://adimg.digitalcamp.co.kr/files/logo/15x15.png"
+                                                                width="15px"
+                                                                height="15px"
+                                                                style="vertical-align:unset;margin:0px;width:15px !important;height:15px !important;"></div>
+                                                        </div>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                            <script
+                                                charset="utf-8"
+                                                src="https://tracker.digitalcamp.co.kr/dcamp_load_V2.php?mc=MzEyNQ&amp;t=script&amp;bt=&amp;w=100%&amp;h=&amp;ps=&amp;url="></script>
+                                            <img
+                                                src="https://idm.skplanet.com/pixel?nid=29&amp;uid=OWU0YmU4ZmJhMzcyNTRiNjM0MTYzNzZhMmFjNjFhYmI="
+                                                width="0"
+                                                height="0"
+                                                style="display:none;">
+                                                <li style="list-style:none;">
+                                                    <a
+                                                        href="https://dicp.digitalcamp.co.kr/tc/tc_click.php?message=24736f64f0306ce6807b562f4e5f9738c4eac45fdf47994f67dd55c912cdc4c4&amp;date=1633720145&amp;param=MTEwM14zMTI1XlBeU15PV1UwWW1VNFptSmhNemN5TlRSaU5qTTBNVFl6TnpaaE1tRmpOakZoWW1JPV5eMjEwLjIyMy41OC4xNTZeXl5eXmh0dHBzOi8vbmV3cy5tdC5jby5rci9tdHZpZXcucGhwP25vPTIwMjEwOTE0MTExMTIwNDEwNzReYXJlYV8xMTYyMDUyNV4xNTgxNl5J&amp;adurl=https%3A%2F%2Fxi.co.kr%2FDRY"
+                                                        target="_blank">
+                                                        <img
+                                                            src="https://adimg.digitalcamp.co.kr/files/1103/juxcsnvhGgNE.jpg"
+                                                            alt="1103"
+                                                            width="580"
+                                                            height="400"
+                                                            border="0"
+                                                            style="vertical-align:top;width:580px !important;height:400px !important;"></a>
+                                                    </li>
+                                                    <img
+                                                        id="dcamp_imptrack_3125"
+                                                        data-src="https://dicp.digitalcamp.co.kr/tc/tc_imp.php?message=b54b0c0290d45e9eacb2f25a0522882cdeb17b9edd7100dfc6788d21cf015f64&amp;date=1633720145&amp;param=MTEwM14zMTI1XlBeU15PV1UwWW1VNFptSmhNemN5TlRSaU5qTTBNVFl6TnpaaE1tRmpOakZoWW1JPV5eYXJlYV8xMTYyMDUyNV4xNTgxNl5J"
+                                                        width="0"
+                                                        height="0"
+                                                        style="width:0px;height:0px;display:none;">
+                                                        <img
+                                                            src="https://idm.skplanet.com/pixel?nid=29&amp;uid=OWU0YmU4ZmJhMzcyNTRiNjM0MTYzNzZhMmFjNjFhYmI="
+                                                            width="0"
+                                                            height="0"
+                                                            style="display:none;">
+                                                            <script>
+                                                                function dcamp_onClose_3125() {
+                                                                    document
+                                                                        .getElementById('dcamp_ad_3125')
+                                                                        .style
+                                                                        .display = 'none';
+                                                                }
+                                                                function mouse_on_3125() {
+                                                                    document
+                                                                        .getElementById('logo1_3125')
+                                                                        .style
+                                                                        .display = 'block';
+                                                                    document
+                                                                        .getElementById('logo2_3125')
+                                                                        .style
+                                                                        .display = 'none';
+                                                                }
+                                                                function mouse_off_3125() {
+                                                                    document
+                                                                        .getElementById('logo1_3125')
+                                                                        .style
+                                                                        .display = 'none';
+                                                                    document
+                                                                        .getElementById('logo2_3125')
+                                                                        .style
+                                                                        .display = 'block';
+                                                                }
+                                                                function info_popup_3125() {
+                                                                    var url = 'https://adimg.digitalcamp.co.kr/info/log/MTEwM3xodHRwczovL3hpLmNvLmtyL0RSWXxod' +
+                                                                            'HRwczovL2FkaW1nLmRpZ2l0YWxjYW1wLmNvLmtyL2ZpbGVzLzExMDMvanV4Y3NudmhHZ05FLmpwZ3w' +
+                                                                            '1ODB8NDAw';
+                                                                    var id = '_blank';
+                                                                    var wid = 716;
+                                                                    var hig = 800;
+                                                                    var x = (window.screen.width) / 2 - 250;
+                                                                    var y = (window.screen.height) / 2 - 250;
+                                                                    window.focus();
+                                                                    var win = window.open(url, id);
+                                                                    win.focus();
+                                                                }
+                                                            </script>
+                                                        </div>
+                                                        <br>
+                                                            <br>
+                                                                공정위는 구글이 앱스토어 및 모바일 OS 시장에서의 지배력을 이용해 삼성전자 등 기기 제조사와 강제로 파편화금지계약(AFA)을 맺은 것을
+                                                                공정거래법 위반이라고 봤다. AFA는 기기 제조사가 안드로이드를 변형한 '포크OS'를 직접 개발하거나, 휴대폰 등에 포크OS를 탑재할 수 없도록
+                                                                한 것이다.<br>
+                                                                    <br>
+                                                                        삼성전자 등은 AFA를 맺지 않으면 플레이스토어·유튜브와 같은 구글의 주요 애플리케이션(앱)을 휴대폰 등에 탑재할 수 없었다. 아울러 최신 버전
+                                                                        안드로이드에 대한 사전 접근도 불가능해 억지로 AFA를 받아들였다.<br>
+                                                                            <br>
+                                                                                공정위는 AFA 때문에 새로운 OS 출현이 가로막혔다고 밝히며 아마존, 알리바바, 삼성전자, LG전자 등의 피해 사례를 공개했다. 아마존은
+                                                                                2011년 LG전자와 협력해 태블릿PC '킨들파이어' 출시를 준비했다. 그러나 LG전자가 아마존의 포크OS인 파이어OS를 탑재한 기기를 출시하면
+                                                                                AFA에 위반될 수 있다는 점을 인지한 이후 프로젝트가 무산됐다. 아마존은 이후에도 파이어OS를 탑재해 줄 업체를 물색했지만 HTC, 소니,
+                                                                                삼성전자, 등이 모두 AFA 위반을 우려해 제의를 거절했다.<br>
+                                                                                    <br>
+                                                                                        삼성전자는 2013년 포크OS를 개발해 '갤럭시 기어1'을 출시하면서 협력사가 개발한 앱을 탑재했는데, 구글은 이 역시 AFA 위반이라고
+                                                                                        주장했다. 구글은 제한적으로 기기 제조사에 포크OS 개발을 허용하면서도 제3자가 개발한 앱 탑재를 금지했는데 여기에 해당한다고 본 것이다.
+                                                                                        삼성전자는 포크OS를 포기하고 자체 OS인 타이젠을 개발했지만 타이젠은 시장에서 성공을 거두지 못했다.<br>
+                                                                                            <br>
+                                                                                                조성욱 공정위원장은 "2013년 삼성전자가 포크OS를 탑재한 기어1을 출시할 수 있었다면 스마트워치 시장의 경쟁 상황은 현재와는 많이 달랐을
+                                                                                                것"이라고 말했다.<br>
+                                                                                                    <br>
+                                                                                                        <!--start_block-->
+                                                                                                        <div
+                                                                                                            class="highlightBlock"
+                                                                                                            style="margin-top:17px; padding-top:15px; border-top:1px solid #444446; clear:both;"></div>
+                                                                                                        <div style="display:none;">
+                                                                                                            <br></div>
+                                                                                                            <div style="display:none;">━<br></div>
+                                                                                                                <b>안드로이드 천하, 이젠 달라질까</b>
+                                                                                                                <div style="display:none;">
+                                                                                                                    <br>━</div>
+                                                                                                                    <div style="display:none;">
+                                                                                                                        <br></div>
+                                                                                                                        <div
+                                                                                                                            class="highlightBlock"
+                                                                                                                            style="margin-bottom:16px; padding-bottom:14px; border-bottom:1px solid #ebebeb; clear:both;"></div>
+                                                                                                                        <!--end_block-->
+                                                                                                                        <table class="article_photo center">
+                                                                                                                            <tbody>
+                                                                                                                                <tr>
+                                                                                                                                    <td class="img">
+                                                                                                                                        <img
+                                                                                                                                            src="https://thumb.mt.co.kr/06/2021/09/2021091411112041074_3.jpg/dims/optimize/"
+                                                                                                                                            alt="(서울=뉴스1) 이성철 기자 = 서울 강남구 구글 스타트업캠퍼스. 2021.8.30/뉴스1  "></td>
+                                                                                                                                    </tr>
+                                                                                                                                    <tr>
+                                                                                                                                        <td class="desc">(서울=뉴스1) 이성철 기자 = 서울 강남구 구글 스타트업캠퍼스. 2021.8.30/뉴스1
+                                                                                                                                        </td>
+                                                                                                                                    </tr>
+                                                                                                                                </tbody>
+                                                                                                                            </table>공정위에 따르면 구글은 2008년 안드로이드 첫 버전을 출시했고 2010년 안드로이드의 글로벌 모바일 OS 시장점유율은 38%에
+                                                                                                                            달했다. 여기에서 시장점유율은 구글 앱 대부분을 사용하지 않는 중국 시장과, 애플 기기에만 탑재되는 iOS를 제외하고 산정한 것이다.<br>
+                                                                                                                                <br>
+                                                                                                                                    안드로이드의 모바일 OS 시장점유율은 2011년 72%로 급격히 뛰었다. 2011년은 구글이 AFA를 본격적으로 도입한 해이기도 하다. 공정위에
+                                                                                                                                    따르면 2011년 이전에도 구글의 AFA 조항이 일부 있었지만 강제성을 띠는 본격적 도입은 2011년이었다. 안드로이드의 시장점유율이 높아지자
+                                                                                                                                    이를 유지·강화하기 위해 구글이 AFA를 꺼내든 것이라고 볼 수 있다.<br>
+                                                                                                                                        <br>
+                                                                                                                                            이후에도 안드로이드의 점유율은 꾸준히 높아져 2019년 기준 97.9%까지 올라왔다. 구글 앱마켓인 플레이스토어의 글로벌 시장점유율 역시
+                                                                                                                                            2019년 95~99%에 달한다. 글로벌 모바일 OS, 앱마켓 시장에서 구글은 사실상 독점사업자인 셈이다.<br>
+                                                                                                                                                <br>
+                                                                                                                                                    공정위가 이번에 구글의 갑질계약을 금지하면서 삼성전자 등의 포크OS 개발이 가능해졌다. 구체적으로 공정위는 구글에 삼성전자와 같은 기기 제조사를
+                                                                                                                                                    상대로 플레이스토어 라이선스, OS 사전 접근권과 연계한 AFA 체결을 강제하지 말도록 했다. 이는 스마트폰·태블릿PC 등 모바일기기 뿐 아니라
+                                                                                                                                                    스마트워치·스마트TV 등 새롭게 부상하는 제품에 대해서도 적용된다.<br>
+                                                                                                                                                        <br>
+                                                                                                                                                            아울러 공정위는 구글에 시정명령을 받은 사실을 기기 제조사에 통지해 기존 AFA 계약을 수정하고, 그 내용을 공정위에 보고하도록 했다. 구글이
+                                                                                                                                                            삼성전자, LG전자 등과 공정한 내용으로 새롭게 계약을 맺는지 계속 감시하겠다는 것이다.<br>
+                                                                                                                                                                <br>
+                                                                                                                                                                    조성욱 공정위원장은 "이번 시정조치 이후에도 구글과 경쟁할 수 있는 모바일 OS 사업자가 진입해 의미 있는 변화를 만들기까지는 시간이 걸리거나
+                                                                                                                                                                    제한적일 수 있다"며 "다만 기타 스마트기기 분야에서는 혁신적인 기기·서비스를 뒷받침할 수 있는 OS 개발 경쟁이 활성화될 수 있다"고 말했다.
+                                                                                                                                                                    이어 "삼성, LG 등 국내 업체도 제약이 없어지면서 다양한 혁신을 시도할 수 있다"며 "소비자에게 보다 다양한 기기, 서비스가 제공될 것으로
+                                                                                                                                                                    기대한다"고 덧붙였다.
+                                                                                                                                                                </div>
