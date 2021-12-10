@@ -37,5 +37,5 @@ AIFFEL 해커톤 "자연어처리 알고리즘을 활용한 느린학습자 교�
     | task | 담당자 | 기타 |
     | :---: | :---: | :---: |
     | 모델링 (쉬운글 생성 요약 모델 NLP 모델링, 개선, MLOps) | 정민지, 권승민 | huggingface/transformers, BERT, BART 등 공부 |
-    | 프로토타입 제작 (MLOps, 프론트/백엔드 개발) | 문영민 | fast API, streamlit, 프론트엔드, 백엔드 |
+    | 프로토타입 제작 (프론트/백엔드 개발) | 문영민 | Flask(or FastAPI), streamlit, 프론트엔드, 백엔드 |
     | 데이터 수집 / 분석 / 정제 (python, jupyter notebook) | 김은서 | EDA, preprocessing |
