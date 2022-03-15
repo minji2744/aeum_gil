@@ -1,0 +1,1 @@
+python train.py --train_file data/train_v2.csv --test_file data/val_v2.csv --gradient_clip_val 1.0 --max_epochs 5 --default_root_dir logs --gpus 4 --batch_size 14 --num_workers 10 --distributed_backend dp
