@@ -1,6 +1,8 @@
 # 애움길: aeum_gil
 <img src="image/002.png" alt="drawing" width="200"/>
 
+[![애움길 시연](http://img.youtube.com/vi/O86wKrHdvRY/0.jpg)](https://youtu.be/O86wKrHdvRY)
+
 안녕하세요, :raised_hand:  
 AIFFEL 해커톤 "자연어처리 알고리즘을 활용한 느린학습자 교육 컨텐츠 제작" 프로젝트 "애움길" 팀입니다.
 
